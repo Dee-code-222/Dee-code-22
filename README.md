@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm currently a 2nd-year Computer Science Engineering student<br>💻 Passionate about coding, problem-solving, and building real-world projects<br>🚀 Exploring Data Structures, Web Development, and Core CS fundamentals<br>📚 Continuously learning and improving my development skills<br>🤝 Open to collaborations on beginner-friendly and open-source projects
+🎓 I'm currently a 3nd-year Computer Science Engineering student<br>💻 Passionate about coding, problem-solving, and building real-world projects<br>🚀 Exploring Data Structures, Web Development, and Core CS fundamentals<br>📚 Continuously learning and improving my development skills<br>🤝 Open to collaborations on beginner-friendly and open-source projects
 
 
 ## 🌐 Socials:
