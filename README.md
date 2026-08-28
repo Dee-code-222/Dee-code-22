@@ -1,24 +1,49 @@
-# 💫 About Me:
-🎓 I'm currently a 3nd-year Computer Science Engineering student<br>💻 Passionate about coding, problem-solving, and building real-world projects<br>🚀 Exploring Data Structures, Web Development, and Core CS fundamentals<br>📚 Continuously learning and improving my development skills<br>🤝 Open to collaborations on beginner-friendly and open-source projects
+# Hi 👋, I'm Deesha Patel
 
+### B.Tech Computer Science & Engineering Student | Aspiring Data Scientist
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deesha-patel-3a1389305/) 
+I'm a Computer Science student passionate about Data Science, Machine Learning and solving real-world problems using data.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dee-code-222&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dee-code-222&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dee-code-222&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 B.Tech in Computer Science & Engineering  
+📊 Interested in Data Science & Data Analytics  
+🐍 Learning and working with Python  
+🗄️ SQL & Database Management  
+🤖 Exploring Machine Learning  
+📈 Data Visualization & Power BI  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dee-code-222&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🛠️ Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dee-code-222&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Exploratory Data Analysis
+- Power BI
+- MS Excel
+- Git & GitHub
+- Data Structures & Algorithms
+- DBMS
 
----
-[![](https://visitcount.itsvg.in/api?id=Dee-code-222&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📂 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 Sales Data Analysis
+Analyzed retail sales data using Python, Pandas and Matplotlib to identify revenue trends, top-performing products and regional performance.
+
+### 🎓 Student Performance Analysis
+Performed exploratory data analysis on student performance data and studied relationships between study hours, attendance, assignments and final scores.
+
+### 🤖 Customer Churn Prediction
+Built a machine learning model using Python and Scikit-learn to predict customer churn using customer-related features.
+
+## 🎯 Career Goal
+
+I am looking for opportunities to gain practical experience in Data Science, Data Analytics and Machine Learning while contributing to real-world projects.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Dee-code-222
+- Email: deeshangtok@gmail.com
