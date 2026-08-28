@@ -47,3 +47,4 @@ I am looking for opportunities to gain practical experience in Data Science, Dat
 
 - GitHub: https://github.com/Dee-code-222
 - Email: deeshangtok@gmail.com
+- Linkedln:https://www.linkedin.com/in/deesha-patel-3a1389305/
